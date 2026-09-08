@@ -1,0 +1,6 @@
+a, b = map(int,input().split())
+print("sum =", a+b)
+print("difference =", a-b)
+print("product=", a*b)
+print("Quotient=", round(a/b,2))
+print("Remainder=", a%b)
